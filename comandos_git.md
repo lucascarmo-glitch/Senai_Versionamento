@@ -18,6 +18,7 @@ Abaixo, vou organizar **todos os principais comandos do Git** (com explicaçães
 |`git commit -m "mensagem"`|Salva as mudanças no repositório com uma mensagem.|
 |`git log`| Mostra o histórico de commits.|
 |`git diff`|Mostra as diferenças entre arquivos modificados e o último commit.|
+|`git remote add origin <https/ssh>`|Adiciona o repositório de destino dos commits.|
 |`git push origin <branch>`|Envia suas mudanças para o repositório remoto (ex: GitHub).|
 |`git pull origin <branch>`| Baixa e mescla mudanças do repositório remoto.|
 |`git fetch`| Baixa as mudanças, mas não mescla automaticamente.|
